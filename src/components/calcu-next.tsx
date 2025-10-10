@@ -7,7 +7,6 @@ import {
   X,
   Divide,
   Percent,
-  SquareRoot,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
